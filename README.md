@@ -1,19 +1,6 @@
 # alx40
-shit keeb im making 
 
-## what to do 
+40% plank (i dont know which yet) mounted keyboard made in Fusion 360
 
-- case 
-and uhhh
-- case 
-
-## why
-im bored and need to make my github green
-
-## is it good
-
-NO. 
-
-the plate isnt gonna fit switches i think.
-the case is gonna be awful
-but it will cost not alot of money to 3d print so its kinda worth it if you have a 40 percent pcb somewhere
+This board should be 3D printed so the plate will be well... plastic so is the case but some foam will do the trick. So far designed to work with the BM40 hotswap PCB.
+If anyone wants to make changes to the design, I will post the project files in the repo, doubt anyone would want to since this keyboard is already going to be awful.
